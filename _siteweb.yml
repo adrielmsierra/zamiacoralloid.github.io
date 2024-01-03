@@ -19,7 +19,7 @@ output_dir: "docs"
   
 output:
   html_document:
-    theme: cosmo
+    theme: jekyll-theme-minimal
     toc: false
     highlight: textmate
     css: styles.css
